@@ -172,7 +172,7 @@ ha = current.day
 
 today = date.today()
 
-logo =""\033[1;32m
+logo ="""\033[1;32m
 
 █▀ █░█ ▄▀█ █▀▄▀█ █ █░█ █░░
 
